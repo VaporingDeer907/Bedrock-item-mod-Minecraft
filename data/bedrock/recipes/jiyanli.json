@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrock:jiyancenai"
+    },
+    "1": {
+      "item": "bedrock:jiyancenai"
+    },
+    "2": {
+      "item": "bedrock:jiyancenai"
+    },
+    "3": {
+      "item": "bedrock:jiyancenai"
+    },
+    "4": {
+      "item": "bedrock:jiyancenai"
+    },
+    "5": {
+      "item": "bedrock:jiyancenai"
+    },
+    "6": {
+      "item": "bedrock:jiyancenai"
+    },
+    "7": {
+      "item": "bedrock:jiyancenai"
+    },
+    "8": {
+      "item": "bedrock:jiyancenai"
+    }
+  },
+  "result": {
+    "item": "bedrock:bedrockli",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrock:jiyankuai"
+    },
+    "1": {
+      "item": "bedrock:jiyankuai"
+    },
+    "2": {
+      "item": "bedrock:ji_yan_chen_ai_jian"
+    }
+  },
+  "result": {
+    "item": "bedrock:zhongjibedrocksword",
+    "count": 1
+  }
+}

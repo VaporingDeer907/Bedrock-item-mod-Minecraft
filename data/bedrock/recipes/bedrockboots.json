@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrock:jiyanchenaiding"
+    },
+    "2": {
+      "item": "bedrock:jiyanchenaiding"
+    },
+    "3": {
+      "item": "bedrock:jiyanchenaiding"
+    },
+    "5": {
+      "item": "bedrock:jiyanchenaiding"
+    }
+  },
+  "result": {
+    "item": "bedrock:ji_yan_tao_boots",
+    "count": 1
+  }
+}

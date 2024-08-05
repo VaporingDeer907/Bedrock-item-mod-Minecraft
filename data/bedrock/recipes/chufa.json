@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrock:jiyankuai"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "bedrock:bedrockworld",
+    "count": 1
+  }
+}

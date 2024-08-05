@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrock:bedrockli"
+    },
+    "1": {
+      "item": "bedrock:bedrockli"
+    },
+    "2": {
+      "item": "bedrock:bedrockli"
+    },
+    "3": {
+      "item": "bedrock:bedrockli"
+    },
+    "4": {
+      "item": "bedrock:bedrockli"
+    },
+    "5": {
+      "item": "bedrock:bedrockli"
+    },
+    "6": {
+      "item": "bedrock:bedrockli"
+    },
+    "7": {
+      "item": "bedrock:bedrockli"
+    },
+    "8": {
+      "item": "bedrock:bedrockli"
+    }
+  },
+  "result": {
+    "item": "bedrock:jiyanchenaiding",
+    "count": 1
+  }
+}
