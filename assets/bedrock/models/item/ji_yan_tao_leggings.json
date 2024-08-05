@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bedrock:items/ji_yan_ku_cha_zi_"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bedrock:items/ji_chan_chan_"
+  }
+}

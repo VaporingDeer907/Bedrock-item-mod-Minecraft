@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrock:blocks/jiyankuai",
+    "up": "bedrock:blocks/jiyankuai",
+    "north": "bedrock:blocks/jiyankuai",
+    "east": "bedrock:blocks/jiyankuai",
+    "south": "bedrock:blocks/jiyankuai",
+    "west": "bedrock:blocks/jiyankuai",
+    "particle": "bedrock:blocks/jiyankuai"
+  }
+}

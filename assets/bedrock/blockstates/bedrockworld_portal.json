@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bedrock:block/bedrockworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "bedrock:block/bedrockworld_portal_ns"
+    }
+  }
+}

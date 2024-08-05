@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrock:blocks/ji_yan_2",
+    "up": "bedrock:blocks/ji_yan_2",
+    "north": "bedrock:blocks/ji_yan_2",
+    "east": "bedrock:blocks/ji_yan_2",
+    "south": "bedrock:blocks/ji_yan_2",
+    "west": "bedrock:blocks/ji_yan_2",
+    "particle": "bedrock:blocks/ji_yan_2"
+  }
+}
